@@ -1,4 +1,4 @@
-# LYK'16 Ağ Güvenliği ve Sızma Testleri 
+# Linux Yaz Kampı 16 Ağ Güvenliği ve Sızma Testleri 
 
 [Notlarda Kullanılan Gösterimlerin Açıklamaları](04-Exploit-Asamasi/README.md) 
 
